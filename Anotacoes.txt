@@ -1,16 +1,17 @@
-#Alguns atalhos para não esquecer:
+Alguns atalhos para não esquecer:
 
-##dir : mostra as pastas e arquivos do diretório
-##cd (dir) : muda o diretório
-##ls : lista do diretório (melhor do que dir)
-##Ctrl + l : limpa tela
-##ls -a : mostra arquivos ocultos
+dir : mostra as pastas e arquivos do diretório
+cd (dir) : muda o diretório
+ls : lista do diretório (melhor do que dir)
+Ctrl + l : limpa tela
+ls -a : mostra arquivos ocultos
 
 ==============================================
 
-#Atalhos Git
+Atalhos Git
 
-##git config --global user.email"(email)" | --global user.name"(nome)"
+git config --global user.email"(email)" | --global user.name"(nome)"
 	>configura o email e nome do commit
-##git clone : leva repositorio para um pasta
+git clone : leva repositorio para um pasta
+
 
