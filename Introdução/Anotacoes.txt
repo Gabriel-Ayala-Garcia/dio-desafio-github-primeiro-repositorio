@@ -1,0 +1,9 @@
+Para alterar o diretório é preciso usar o comando "cd" + pasta (completável com TAB)
+Para ver os arquivos/pastas deste diretório é preciso usar o comando "dir"
+
+
+------------------------------------------------
+
+Apagar as linhas do BASH é com Ctrl + L (não é o comando cls)
+
+------------------------------------------------
